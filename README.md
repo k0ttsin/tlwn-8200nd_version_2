@@ -1,4 +1,5 @@
 # tlwn-8200nd_version_2
+<h3>apt update && apt install linux-headers-$(uname -r) linux-essentials dkms make cmake</h3>
 <h3>tar -xvf filename.tar.gz</h3>
 <h3>cd filename</h3>
 <h3>chmod +x install_wifi.sh</h3>
